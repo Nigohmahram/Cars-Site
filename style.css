@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    
+}
+body{
+    background: #fff4ff;
+}
+header{
+    height: 550px;
+    background: url(img/bacgraund.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header h1{
+    color: white;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+}
+.dest p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 42px;
+
+}
+.block img{
+    width: 100%;
+}
+.block h3{
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+color: #445161;
+text-align: center;
+margin: 30px 0 30px 0;
+}
+.block p{
+    color: #333333;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 5px 0 5px;
+}
+.fot .fot1{
+    color: #445161;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 90px;
+    text-transform: uppercase;
+}
+main .main1{
+    margin-top: 50px;
+    padding-left: 100px;
+}
+footer{
+    height: 50px;
+    margin-top: 50px;
+    background: url(img/foot.jpg);
+    background-size: cover;
+}
+footer .fot1 h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 5px;
+}
